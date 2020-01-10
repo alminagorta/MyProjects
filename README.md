@@ -1,7 +1,7 @@
 # MyProjects
 Compilation of multiple models, examples and applications
 
-A <i><b>practical</b></i> approach to optimization models, machine learning and data analysis.
+A <i><b>practical</b></i> approach to system modeling, spatial analysis, machine learning and data analysis.
 
 [water allocation and invasive vegetation control]: https://github.com/alminagorta/Systems-model-in-Wetlands-to-Allocate-water-and-Manage-Plant-Spread
 
