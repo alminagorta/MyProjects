@@ -33,7 +33,7 @@ Here, I list a set of tools that support system modeling, spatial analysis, mach
 ## Machine Learning
 * Unsupervised Learning
   * Clustering
-    * How to groups together Ontario fish species points with similar characteristics [[K-means]]
+    * How to groups together Ontario fish species with similar characteristics [[K-means]]
     * Hierarchical clustering [[Dendogram]]
     * How to summarize a text [[Text Summarization]]
   * Natural Language Processing
