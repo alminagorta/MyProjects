@@ -31,9 +31,12 @@ A <i><b>practical</b></i> approach to optimization models, machine learning and 
 * A model to recommend [water allocation and invasive vegetation control]
 * A model to recommend best management practices to [minimize water pollution]
 ## Machine Learning
-* Clustering
-  * How to groups together Ontario fish species points with similar characteristics [K-means]
-  * Hierarchical clustering [Dendogram]
-  * How to summarize a text [Text Summarization]
+* Unsupervised Learning
+  * Clustering
+    * How to groups together Ontario fish species points with similar characteristics [[K-means]]
+    * Hierarchical clustering [[Dendogram]]
+    * How to summarize a text [[Text Summarization]]
+  * Natural Language Processing
+    * How to discover topics across various text documents [[Topic Modeling]]
 * Regression
-  * Forecasting of water level in Ontario Lake [forecasting time series]
+  * Forecasting of water level in Ontario Lake [[forecasting time series]]
