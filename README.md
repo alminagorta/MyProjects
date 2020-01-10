@@ -17,7 +17,7 @@ A <i><b>practical</b></i> approach to optimization models, machine learning and 
 * Crossvalidation
 * Scrapping Techniques
   * From the Web
-  * From tweeter  
+  * From twitter  
 * Techniques for Variable Selecction
   * Recursive Feature Elimination
   * Correlation Matrix
