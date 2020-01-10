@@ -24,9 +24,9 @@ Here, I list a set of tools that support system modeling, spatial analysis, mach
   * Correlation Matrix
 ## Data Visualization
 * Parallel Coordinates
- * Visualization of multidimensional [fish parameters] 
+  * Visualization of multidimensional [fish parameters] 
 * Interactive Plots applications
- * [Time Series] of the three main sources of surface water to the Great Salt Lake, Utah 
+  * [Time Series] of the three main sources of surface water to the Great Salt Lake, Utah 
 ## Spatial Analysis
 * Remote Sensing
 * EarthEngine
