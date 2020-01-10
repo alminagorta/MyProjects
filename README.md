@@ -7,6 +7,9 @@ A <i><b>practical</b></i> approach to optimization models, machine learning and 
 
 [minimize water pollution]: https://github.com/alminagorta/SimpleOptimizationModel
 
+[K-means]: https://github.com/alminagorta/MachineLearning/tree/master/Clustering
+
+
 ## Basic Data Analysis
 * Principal Component Analysis
 * Bootstrapping
@@ -20,6 +23,7 @@ A <i><b>practical</b></i> approach to optimization models, machine learning and 
   * Correlation Matrix
 ## Data Visualization
 * Parallel Coordinates
+* Interactive Plots 
 ## Spatial Analysis
 * Remote Sensing
 * EarthEngine
