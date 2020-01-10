@@ -40,7 +40,7 @@ A <i><b>practical</b></i> approach to optimization models, machine learning and 
     * How to discover topics across various text documents [[Topic Modeling]]
 * Regression
   * Forecasting of water level in Ontario Lake [[forecasting time series]]
-  ## Familiar with
-  * Parse information from PDF 
-    * Text in PDF [tika]
+## Familiar with
+* Parse information from PDF 
+  * Text in PDF [tika]
     * Tables in PDF [tabula, Camelot or PyPDF2]
