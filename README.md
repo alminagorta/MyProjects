@@ -1,13 +1,17 @@
 # MyProjects
-Compilation of <i><b>practical</b></i> applications, tools, and system models. My main purpose is to share some information and create a repository to find myself these topics. 
 
-Here, I list a set of tools that support system modeling, spatial analysis, machine learning and data analysis.
+<i><b>"Models help us to explain the past, predict the future, understand the subject and control the world..." Henry Winston (A great teacher from MIT)</b></i>
+
+Here, I list a set of tools that support system modeling, spatial analysis, machine learning and data analysis. Compilation of <i><b>practical</b></i> applications, tools, and system models. My main purpose is to share some information and create a repository to find myself these topics. 
 
 [water allocation and invasive vegetation control]: https://github.com/alminagorta/Systems-model-in-Wetlands-to-Allocate-water-and-Manage-Plant-Spread
 
 [minimize water pollution]: https://github.com/alminagorta/SimpleOptimizationModel
 
+[fish parameters]: http://oalminagorta.byethost7.com/Fish_parameters/?i=2
+[Time Series]: http://oalminagorta.byethost7.com/TSeries_GSL.html 
 [K-means]: https://github.com/alminagorta/MachineLearning/tree/master/Clustering
+[forecasting time series]: https://github.com/alminagorta/MachineLearning
 
 
 ## Basic Data Analysis
@@ -15,15 +19,14 @@ Here, I list a set of tools that support system modeling, spatial analysis, mach
 * Bootstrapping
 * Montecarlo Simulation
 * Crossvalidation
-* Scrapping Techniques
-  * From the Web
-  * From twitter  
-* Techniques for Variable Selecction
+* Techniques for Variable Selection
   * Recursive Feature Elimination
   * Correlation Matrix
 ## Data Visualization
 * Parallel Coordinates
-* Interactive Plots 
+ * Visualization of multidimensional [fish parameters] 
+* Interactive Plots applications
+ * [Time Series] of the three main sources of surface water to the Great Salt Lake, Utah 
 ## Spatial Analysis
 * Remote Sensing
 * EarthEngine
@@ -41,6 +44,9 @@ Here, I list a set of tools that support system modeling, spatial analysis, mach
 * Regression
   * Forecasting of water level in Ontario Lake [[forecasting time series]]
 ## Familiar with
-* Parse information from PDF 
-  * Text in PDF [tika]
+* Scrapping Techniques
+  * From the Web
+  * From twitter  
+  * From PDF 
+    * Text in PDF [tika]
     * Tables in PDF [tabula, Camelot or PyPDF2]
