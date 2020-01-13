@@ -19,6 +19,7 @@ Here, I list a set of tools that support system modeling, spatial analysis, mach
 * Bootstrapping
 * Montecarlo Simulation
 * Crossvalidation
+* Logistic Regression => Max Likelihood performance
 * Techniques for Variable Selection
   * Recursive Feature Elimination
   * Correlation Matrix
