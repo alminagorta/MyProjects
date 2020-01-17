@@ -10,7 +10,8 @@ Here, I list a set of tools that support system modeling, spatial analysis, mach
 
 [fish parameters]: http://oalminagorta.byethost7.com/Fish_parameters/?i=2
 [Time Series]: http://oalminagorta.byethost7.com/TSeries_GSL.html 
-[K-means]: https://github.com/alminagorta/MachineLearning/tree/master/Clustering
+[K-means]: https://github.com/alminagorta/MachineLearning/tree/master/Clustering#using-k-means
+[Dendogram]: https://github.com/alminagorta/MachineLearning/tree/master/Clustering#using-hierarchical-clustering
 [forecasting time series]: https://github.com/alminagorta/MachineLearning
 
 
