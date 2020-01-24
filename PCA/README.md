@@ -15,11 +15,9 @@
   * Variables that are cluster together means that there are highly correlated 
 
 
-<img src="https://github.com/alminagorta/MyProjects/blob/master/PCA/PCA_1.png" width=450/><img src="https://github.com/alminagorta/MyProjects/blob/master/PCA/PCA_2.png" width=450/>
+<img src="https://github.com/alminagorta/MyProjects/blob/master/PCA/PCA_1.png" width=400/><img src="https://github.com/alminagorta/MyProjects/blob/master/PCA/PCA_2.png" width=400/>
 
 # Additional resources
 
-* [Basic about PCA]
-
-[Basic about PCA]: ftp://statgen.ncsu.edu/pub/thorne/molevoclass/AtchleyOct19.pdf
+* [Basic about PCA] ftp://statgen.ncsu.edu/pub/thorne/molevoclass/AtchleyOct19.pdf
 
