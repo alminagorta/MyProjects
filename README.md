@@ -2,7 +2,9 @@
 
 <i><b>"Models help us to explain the past, predict the future, understand the subject and control the world..." Henry Winston (A great teacher from MIT)</b></i>
 
-Here, I list a set of tools that support system modeling, spatial analysis, machine learning and data analysis. Compilation of <i><b>practical</b></i> applications, tools, and system models. My main purpose is to share some information and create a repository to find myself these topics. 
+Here, I list a set of tools that support system modeling, spatial analysis, machine learning and data analysis. It is under sporadic development and involve a compilation of <i><b>practical</b></i> applications, tools, and system models. My main purpose is to share some information and create a repository to find myself these topics. 
+
+[Principal Component Analysis]: https://github.com/alminagorta/MyProjects/tree/master/PCA
 
 [water allocation and invasive vegetation control]: https://github.com/alminagorta/Systems-model-in-Wetlands-to-Allocate-water-and-Manage-Plant-Spread
 
@@ -16,7 +18,7 @@ Here, I list a set of tools that support system modeling, spatial analysis, mach
 
 
 ## Basic Data Analysis
-* Principal Component Analysis
+* [Principal Component Analysis]
 * Bootstrapping
 * Montecarlo Simulation
 * Crossvalidation
