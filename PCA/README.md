@@ -22,8 +22,12 @@ More details of the variables
 
 # Additional resources
 
-* [Basic about PCA] ftp://statgen.ncsu.edu/pub/thorne/molevoclass/AtchleyOct19.pdf
-* [Visual PCA]
 [Visual PCA]: http://setosa.io/ev/principal-component-analysis/
+
+
+* [Visual PCA]
+* [Basic about PCA] ftp://statgen.ncsu.edu/pub/thorne/molevoclass/AtchleyOct19.pdf
+
+
 
 
