@@ -1,6 +1,6 @@
 # MyProjects
 
-<i><b>"Models help us to explain the past, predict the future, understand the subject and control the world..." Henry Winston (A great teacher from MIT)</b></i>
+<i><b>"Models help us to explain the past, predict the future, understand the subject and control the world..." Henry Winston (A great professor from MIT)</b></i>
 
 Here, I list a set of tools that support system modeling, spatial analysis, machine learning and data analysis. It is under sporadic development and involve a compilation of <i><b>practical</b></i> applications, tools, and system models. My main purpose is to share some information and create a repository to find myself these topics. 
 
